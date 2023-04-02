@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://newzone.top/yyy/sitemap.xml
+Sitemap: https://newzone.top/tangtangnote/sitemap.xml
